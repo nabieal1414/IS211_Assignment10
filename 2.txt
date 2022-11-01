@@ -1,0 +1,3 @@
+2. What is the purpose of the person_pettable?
+2. The purpose of person_pettable is to create relationship between the pet and the person table.
+   
